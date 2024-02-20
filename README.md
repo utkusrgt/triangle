@@ -1,0 +1,2 @@
+# triangle
+Triangle hypotenuse calculator
